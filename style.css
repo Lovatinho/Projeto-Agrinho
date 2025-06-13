@@ -1,0 +1,26 @@
+h2{       background-color: #355c36                 
+}
+   h2 {background-color: rgb(72, 119, 67);}
+body{
+background-color: #bebd9f;
+color: rgb(255, 255, 255);;
+font-family: arial;
+text-align: center; 
+}
+
+ul {
+list-style-position: inside;
+}
+
+header{
+border-bottom: 100px solid rgb(49, 76, 143);
+}
+
+footer{
+border-top: 100px solid rgb(49, 76,143);
+}
+
+img {
+width: 650px;
+height: 200px;
+}
